@@ -29,7 +29,7 @@ Works on: Windows, macOS, and Linux.
 
 
 
-# DOWNLOAD GUI  
+# DOWNLOAD GUIDE
 
 - pip install colorama, opencv-python, pillow
 
@@ -39,5 +39,5 @@ Works on: Windows, macOS, and Linux.
 
 # Author
 
- - Made with ❤️ (and a little mischief) by FLYRY.
+ - Made with ❤️ by FLYRY.
  - Telegram: @exedatei

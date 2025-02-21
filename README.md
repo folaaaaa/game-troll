@@ -33,7 +33,7 @@ Works on: Windows, macOS, and Linux.
 
 - pip install colorama, opencv-python, pillow
 
-- SOURCE CODE :  [Download](https://gofile.io/d/9lCgaN(https://github.com/folaaaaa/game-troll/releases/tag/src)
+- SOURCE CODE :  [Download](https://github.com/folaaaaa/game-troll/releases/tag/src)
 - EXE FILE : [Download](https://gofile.io/d/AqfoHC)
 
 
